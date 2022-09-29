@@ -1,2 +1,2 @@
 # staggkettle-ha
-Custom Integration for Stagg Kettle
+Stagg Kettle Custom Integration for Home Assistant
